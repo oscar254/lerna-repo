@@ -1,5 +1,5 @@
 {
-  "name": "@oscarrepo/button",
+  "name": "oscarrepobutton",
   "version": "1.0.7",
   "main": "lib/index.js",
   "module": "src/index.js",
