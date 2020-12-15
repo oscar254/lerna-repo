@@ -4,6 +4,11 @@
   "packages": [
     "packages/*"
   ],
+  "command": {
+    "publish": {
+      "verifyAccess": false
+    }
+  },
   "registry": "https://registry.npmjs.org",
   "version": "independent"
 }
