@@ -1,5 +1,5 @@
 {
-  "name": "button",
+  "name": "@oscarrepo/button",
   "version": "1.0.2",
   "main": "lib/index.js",
   "module": "src/index.js",
@@ -12,5 +12,6 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "styled-components": "^5.0.0"
-  }
+  },
+  "gitHead": "ff76d9e9f12ed9f2966f0c49579ad3558203023e"
 }
